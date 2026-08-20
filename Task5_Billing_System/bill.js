@@ -1,0 +1,1 @@
+let t=0;for(let i=1;i<=3;i++)t+=Number(prompt('Quantity'))*Number(prompt('Price'));if(t>2000)t*=0.9;document.write('Final Bill ₹'+t);

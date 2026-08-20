@@ -1,0 +1,1 @@
+let t=0;for(let i=1;i<=5;i++)t+=Number(prompt('Mark '+i));document.write('Total: '+t+' Average: '+t/5);

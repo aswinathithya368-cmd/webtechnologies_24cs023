@@ -1,0 +1,1 @@
+body{font-family:Arial;text-align:center;background:#fff0f5}.grid{display:flex;justify-content:center;gap:30px}.grid div{padding:50px;background:white;border:3px solid #333;animation:zoom 2s infinite}@keyframes zoom{50%{transform:scale(1.1)}}
